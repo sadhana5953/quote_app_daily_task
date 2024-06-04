@@ -8,8 +8,17 @@
 https://github.com/sadhana5953/quote_app_daily_task/assets/148869257/319acdd3-d010-4478-a402-830c34e89d33
 
 # Random Quotes Generator 
-<img src="https://github.com/sadhana5953/quote_app_daily_task/assets/148869257/96c466c4-2332-48ae-9744-acc90ea76813" height=22% width=35%>
-<img src="https://github.com/sadhana5953/quote_app_daily_task/assets/148869257/801fdd84-3bdb-43e9-a4e6-21a11ce0961e" height=22% width=35%>
+<img src="https://github.com/sadhana5953/quote_app_daily_task/assets/148869257/5dfe8af7-be51-4b4b-9e98-3606c3c280f2" height=22% width=35%>
+<img src="https://github.com/sadhana5953/quote_app_daily_task/assets/148869257/9fda25de-8475-4f3f-a38c-4bd958e0d093" height=22% width=35%>
+<img src="https://github.com/sadhana5953/quote_app_daily_task/assets/148869257/4d2826d1-5fcb-468c-a8e0-16fcdae5ebb9" height=22% width=35%>
+
+https://github.com/sadhana5953/quote_app_daily_task/assets/148869257/766cf654-b030-4f68-b58b-788911d082ad
+
+#  Listview to Gridview Toggle View
+<img src="https://github.com/sadhana5953/quote_app_daily_task/assets/148869257/f40ad74c-abeb-4d7e-9f11-a5323322b1df" height=22% width=35%>
+<img src="https://github.com/sadhana5953/quote_app_daily_task/assets/148869257/f4cc4c9f-e7fe-45a0-a5d1-a42a2fabf258" height=22% width=35%>
+
+https://github.com/sadhana5953/quote_app_daily_task/assets/148869257/ae4862f1-ea34-4a49-a9e1-4acfe60e3d86
 
 # Factory Constructor & Modal Class.
 ## Write a detailed implementation of the Factory constructor :
