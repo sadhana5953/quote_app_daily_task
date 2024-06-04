@@ -7,6 +7,10 @@
 
 https://github.com/sadhana5953/quote_app_daily_task/assets/148869257/319acdd3-d010-4478-a402-830c34e89d33
 
+# Random Quotes Generator 
+<img src="https://github.com/sadhana5953/quote_app_daily_task/assets/148869257/96c466c4-2332-48ae-9744-acc90ea76813" height=22% width=35%>
+<img src="https://github.com/sadhana5953/quote_app_daily_task/assets/148869257/801fdd84-3bdb-43e9-a4e6-21a11ce0961e" height=22% width=35%>
+
 # Factory Constructor & Modal Class.
 ## Write a detailed implementation of the Factory constructor :
 =>  Factory constructors provide the flexibility to return   instances of   subclasses instead of the class itself.
