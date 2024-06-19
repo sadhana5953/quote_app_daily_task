@@ -1,5 +1,14 @@
 # Quote App Daily Task :
 
+# OX Game
+<img src="https://github.com/sadhana5953/quote_app_daily_task/assets/148869257/1f55cdaa-ac05-477d-ba98-f8855b906655" height=22% width=35%>
+<img src="https://github.com/sadhana5953/quote_app_daily_task/assets/148869257/0efe836d-beb0-4023-82f6-48d52ff17596" height=22% width=35%>
+<img src="https://github.com/sadhana5953/quote_app_daily_task/assets/148869257/f72412bd-5fce-4ff1-800f-7637505963b8" height=22% width=35%>
+<img src="https://github.com/sadhana5953/quote_app_daily_task/assets/148869257/645e4559-2e04-4a48-8c32-921a1b3c79b4" height=22% width=35%>
+<img src="https://github.com/sadhana5953/quote_app_daily_task/assets/148869257/98771d42-7b37-435b-9a7a-5ac8094fefd8" height=22% width=35%>
+
+
+
 # Types of Alert Dialogue & SizedBox.expand()
 <img src="https://github.com/sadhana5953/quote_app_daily_task/assets/148869257/d0730b92-c999-4f26-a4e6-27f7ee9b4f63" height=22% width=35%>
 <img src="https://github.com/sadhana5953/quote_app_daily_task/assets/148869257/cfb4f566-2cba-4e57-b30e-bfb94a0d5261" height=22% width=35%>
