@@ -7,7 +7,7 @@
 <img src="https://github.com/sadhana5953/quote_app_daily_task/assets/148869257/645e4559-2e04-4a48-8c32-921a1b3c79b4" height=22% width=35%>
 <img src="https://github.com/sadhana5953/quote_app_daily_task/assets/148869257/98771d42-7b37-435b-9a7a-5ac8094fefd8" height=22% width=35%>
 
-
+https://github.com/sadhana5953/quote_app_daily_task/assets/148869257/6f16a67e-36d6-427a-bc15-88fe9d2bbf4f
 
 # Types of Alert Dialogue & SizedBox.expand()
 <img src="https://github.com/sadhana5953/quote_app_daily_task/assets/148869257/d0730b92-c999-4f26-a4e6-27f7ee9b4f63" height=22% width=35%>
